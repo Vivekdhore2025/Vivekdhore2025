@@ -32,11 +32,7 @@ Project	Description	Tech Stack
 🔢 Calculator	Calculator project	Java
 💻 C Programs	50+ logic building programs	C
 ---
-🏅 Certifications
-✅ HackerRank — Java (Basic) (In Progress)
-🔜 HackerRank — SQL (Basic)
-🔜 HackerRank — Problem Solving
-🔜 NPTEL — Programming in Java
+
 ---
 📊 GitHub Stats
 <p align="left">
